@@ -1,16 +1,17 @@
-## Hi there 👋
+# **Olá, seja muito Bem vindo ao meu perfil** 🖤
 
-<!--
-**gpedrosilva13/gpedrosilva13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Guilherme Pedro da Silva
 
-Here are some ideas to get you started:
+- Sou Professor de Matenática do Estado de São Paulo
+- Estou estudando no [Alura](https://www.alura.com.br/?srsltid=AfmBOop62n29X84U-9Hg9O_tFgwDFAaT0YsxVj2w773VAe172QTUU6J3)
+- Estou me desenvolvendo na Linguagem HTML e CSS
+- Estou começando a aprender sobre JavaScript
+- Sei programar o básico no Scratch e no Makecode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Você pode entrar em contato comigo através📫
+
+  **e-mail: gulherme2015pedro@hotmail.com.br**
+
+  **Linkedin: Guilherme Silva**
+
+## Tamo junto✌️
